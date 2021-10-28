@@ -1,0 +1,4 @@
+Serverless function invoke with arguments
+
+
+serverless invoke local --function verifyLoginOtp --data '{"mobile_no": "9029331690", "otp": "174670"}' -v -s local
